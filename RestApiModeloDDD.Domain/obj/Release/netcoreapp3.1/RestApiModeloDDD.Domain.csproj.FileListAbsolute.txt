@@ -1,0 +1,10 @@
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Release\netcoreapp3.1\RestApiModeloDDD.Domain.deps.json
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Release\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Release\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.csproj.AssemblyReference.cache
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfoInputs.cache
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfo.cs
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+D:\Projetos\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Release\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
